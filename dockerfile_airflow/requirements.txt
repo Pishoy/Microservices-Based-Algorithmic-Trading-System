@@ -1,0 +1,11 @@
+psycopg2-binary
+oandapyV20
+xlrd
+backtrader
+v20
+mlflow==1.4.0
+minio
+boto3
+sklearn
+flask-bcrypt
+apache-airflow[celery]
